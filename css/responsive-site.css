@@ -1,0 +1,36 @@
+﻿@media (max-width: 992px) {
+}
+
+@media (max-width: 768px) {
+    /*ALL*/
+    .container-fluid {
+        display: grid;
+    }
+    #about-img, #projects-img, #contact-img, #welcome-img , #logo {
+        display: none;
+    }
+    .about-name, .contact-name, .projects-name, .welcome-name {
+        font-size: 30px;
+    }
+    /*HEADER*/
+    /*WELCOME*/
+    /*ABOUT*/
+    /*PROJECTS*/
+    .carousel {
+        border: solid #FFE372 10px;
+
+    }
+    .slides-img {
+        display: grid
+    }
+    /*CONTACT*/
+    .contact-rightside {
+        width:100%;
+    }
+}
+
+
+
+@media (max-width: 576px) {
+
+}

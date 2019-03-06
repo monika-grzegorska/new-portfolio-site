@@ -1,0 +1,24 @@
+﻿.contact-name {
+    text-align: center;
+    font-family: "Semplicita Pro";
+    color: #FC6183;
+}
+
+fieldset {
+    border: solid #FFE372 10px;
+}
+
+label, input, button, textarea {
+    text-align: center;
+    font-family: "Segoe UI";
+    color: #707070;
+}
+
+.contact-connect {
+    background-color: #EEF1E6;
+}
+
+    .contact-connect a {
+        padding-top: 2%;
+        color: #FC6183;
+    }

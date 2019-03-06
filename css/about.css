@@ -1,0 +1,12 @@
+﻿.about-name {
+    text-align: center;
+    font-family: "Semplicita Pro";
+    color: #FC6183;
+}
+.about-text {
+    text-align: center;
+    font-family: "Segoe UI";
+    color: #707070;
+    text-transform: uppercase;
+    font-size: 120%;
+}

@@ -1,0 +1,14 @@
+﻿.projects-name {
+    text-align: center;
+    font-family: "Semplicita Pro";
+    color: #FC6183;
+    margin-bottom: 10px;
+}
+
+.carousel {
+    border: solid #FFE372 20px;
+    padding: 30px;
+}
+span .carousel-control-prev-icon, .carousel-control-next-icon {
+    color: #FC6183 !important;
+}

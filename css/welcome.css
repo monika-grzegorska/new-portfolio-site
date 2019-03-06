@@ -1,0 +1,16 @@
+﻿.welcome-name {
+    text-align: center;
+    font-family: "Semplicita Pro";
+    color: #FC6183;
+   
+}
+.welcome-secondname {
+    text-align: center;
+    font-family: "Segoe UI";
+    color: #707070;
+    font-weight: lighter;
+}
+
+.welcome-img {
+    text-align: center;
+}
